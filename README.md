@@ -2,6 +2,7 @@
 
 <!--
 **indjec/indjec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ind.jec@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend 12 hours listening to music.
--->
