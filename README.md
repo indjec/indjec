@@ -25,4 +25,3 @@ Here are some ideas to get you started:
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indjec&amp;theme=light&amp;hide_langs_below=1" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=indjec&amp;theme=light&amp;hide_langs_below=1" style="max-width:100%;" align="middle">
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?indjec" frameborder="0"></iframe>
